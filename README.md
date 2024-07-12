@@ -82,11 +82,8 @@ I am a student of Software Engineering from Viet Nam
 
 ### :fire: My Stats :
 
-<div display="inline">
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PhiNX119&theme=tokyonight&card_width=498" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api?username=PhiNX119&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-
-  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhiNX119&layout=compact&theme=tokyonight" alt="Top Langs">
-  </div>
 </div>
